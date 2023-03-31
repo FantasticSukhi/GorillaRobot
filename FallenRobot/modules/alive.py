@@ -10,14 +10,14 @@ from FallenRobot import BOT_NAME, BOT_USERNAME, OWNER_ID, START_IMG, SUPPORT_CHA
 @pbot.on_message(filters.command("alive"))
 async def awake(_, message: Message):
     TEXT = f"**ʜᴇʏ {message.from_user.mention},\n\nɪ ᴀᴍ {BOT_NAME}**\n━━━━━━━━━━━━━━━━━━━\n\n"
-    TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ :** [🄱🄻🄰🄲🄺🄼🄰🄼🄱🄰](tg://user?id={OWNER_ID})\n\n"
-    TEXT += f"» **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{telever}` \n\n"
-    TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{tlhver}` \n\n"
-    TEXT += f"» **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{pyrover}` \n━━━━━━━━━━━━━━━━━\n\n"
+    TEXT += f"» **му нєαятвєαт :** [🄱🄻🄰🄲🄺🄼🄰🄼🄱🄰](tg://user?id={OWNER_ID})\n\n"
+    TEXT += f"» **ℓιвяαяу νєяѕιση :** `{telever}` \n\n"
+    TEXT += f"» **тєℓєтнση νєяѕιση :** `{tlhver}` \n\n"
+    TEXT += f"» **ρуяσgяαм νєяѕιση :** `{pyrover}` \n━━━━━━━━━━━━━━━━━\n\n"
     BUTTON = [
         [
-            InlineKeyboardButton("ʜᴇʟᴘ", url=f"https://t.me/{BOT_USERNAME}?start=help"),
-            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
+            InlineKeyboardButton("нєℓρ", url=f"https://t.me/{BOT_USERNAME}?start=help"),
+            InlineKeyboardButton("ѕυρρσят", url=f"https://t.me/{SUPPORT_CHAT}"),
         ]
     ]
     await message.reply_photo(
