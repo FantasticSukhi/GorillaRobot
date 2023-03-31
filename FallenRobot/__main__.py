@@ -93,7 +93,7 @@ buttons = [
         InlineKeyboardButton(text="ɦɛʟք & ƈօʍʍǟռɖֆ", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="❄ ռɛȶաօʀӄ ❄", callback_data="https://t.me/GORILLA_NETWORK"),
+        InlineKeyboardButton(text="🧑‍🤝‍🧑ռɛȶաօʀӄ 🧑‍🤝‍🧑", callback_data="https://t.me/GORILLA_NETWORK"),
         InlineKeyboardButton(text="✨ ֆʊքքօʀȶ ✨", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
