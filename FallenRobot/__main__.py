@@ -413,7 +413,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="ɢɪᴛʜᴜʙ",
-                            url="https://github.com/FantasticSukhi",
+                            url="https://www.pornhub.com",
                         ),
                     ],
                     [
@@ -449,11 +449,11 @@ def Source_about_callback(update: Update, context: CallbackContext):
 𝒜𝓃𝒹 𝓊𝓈𝒾𝓃𝑔 [𝒮𝓆𝓁𝒶𝓁𝒸𝒽𝑒𝓂𝓎](https://www.sqlalchemy.org) 𝒶𝓃𝒹 [𝓂𝒶𝓃𝑔𝑜](https://cloud.mongodb.com) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
 
 
-*🄶🄾🅁🄸🄻🄻🄰 🅂🄾🅄🅁🄲🄴 🄲🄾🄳🄴 :* [ѕσυя¢є](https://github.com/FantasticSukhi/GorillaRobot)
+*🄶🄾🅁🄸🄻🄻🄰 🅂🄾🅄🅁🄲🄴 🄲🄾🄳🄴 :* [ѕσυя¢є](https://www.pornhub.com)
 *🄼🅈 🅈🄾🅄🅃🅄🄱🄴 🄲🄷🄰🄽🄽🄴🄻:*[уσυтυвє](www.youtube.com/channel/UC-fmEkPQ0J-o3X73g4XvnnQ)
 
-{BOT_NAME} тнιѕ вσт ιѕ мαιηтαιηιηg ву вℓα¢кмαмвα αη∂ ℓι¢єη¢ιηg σƒ тнιѕ вσт ιѕ υη∂єя тнє[ℓι¢єη¢є](https://github.com/FantasticSukhi/GorillaRobot/blob/master/LICENSE).
-© 𝕱𝖆𝖓𝖙𝖆𝖘𝖙𝖎𝖈𝕾𝖚𝖐𝖍𝖎✍ || [𝔖𝔲𝔭𝔭𝔬𝔯𝔱 𝔠𝔥𝔞𝔱](https://t.me/{SUPPORT_CHAT})|| 𝕹𝖔𝖙𝖊 :- 𝕴𝖋 𝖞𝖔𝖚 𝖜𝖆𝖓𝖙 𝖘𝖔𝖚𝖗𝖈𝖊 𝖈𝖔𝖉𝖊 𝖋𝖎𝖗𝖘𝖙𝖑𝖞 𝖉𝖔 𝖕𝖆𝖞𝖒𝖊𝖓𝖙 𝖜𝖍𝖎𝖈𝖍 𝖎𝖘 𝕽𝖘.𝟓𝟎𝟎𝟎 𝖆𝖓𝖉 𝖙𝖍𝖊𝖓 𝖘𝖊𝖓𝖉 𝖘𝖈𝖗𝖊𝖊𝖓𝖘𝖍𝖔𝖙 𝖎𝖋 𝖕𝖆𝖞𝖊𝖒𝖙 𝖎𝖘 𝖗𝖊𝖆𝖑𝖑𝖞 𝖉𝖔𝖓𝖊 𝖙𝖍𝖊𝖓 𝖘𝖔𝖚𝖗𝖈𝖊 𝖎𝖘 𝖎𝖓 𝖞𝖔𝖚𝖗 𝖍𝖆𝖓𝖉 𝖔𝖙𝖍𝖊𝖗𝖜𝖎𝖘𝖊 𝖞𝖔𝖚 𝖋𝖔𝖗𝖌𝖊𝖙 𝖙𝖍𝖊 𝖘𝖔𝖚𝖗𝖈𝖊 𝖈𝖔𝖉𝖊✍.
+{BOT_NAME} тнιѕ вσт ιѕ мαιηтαιηιηg ву вℓα¢кмαмвα αη∂ ℓι¢єη¢ιηg σƒ тнιѕ вσт ιѕ υη∂єя тнє [ℓι¢єη¢є](https://github.com/FantasticSukhi/GorillaRobot/blob/master/LICENSE).
+© 𝕱𝖆𝖓𝖙𝖆𝖘𝖙𝖎𝖈𝕾𝖚𝖐𝖍𝖎✍ || [𝔖𝔲𝔭𝔭𝔬𝔯𝔱 𝔠𝔥𝔞𝔱](https://t.me/{SUPPORT_CHAT})|| 𝕹𝖔𝖙𝖊 :- 𝕴𝖋 𝖞𝖔𝖚 𝖜𝖆𝖓𝖙 𝖘𝖔𝖚𝖗𝖈𝖊 𝖈𝖔𝖉𝖊 𝖋𝖎𝖗𝖘𝖙𝖑𝖞 𝖉𝖔 𝖕𝖆𝖞𝖒𝖊𝖓𝖙 𝖜𝖍𝖎𝖈𝖍 𝖎𝖘 𝕽𝖘.𝟓𝟎𝟎𝟎 𝖆𝖓𝖉 𝖙𝖍𝖊𝖓 𝖘𝖊𝖓𝖉 𝖘𝖈𝖗𝖊𝖊𝖓𝖘𝖍𝖔𝖙 𝖎𝖋 𝖕𝖆𝖞𝖒𝖊𝖓𝖙 𝖎𝖘 𝖗𝖊𝖆𝖑𝖑𝖞 𝖉𝖔𝖓𝖊 𝖙𝖍𝖊𝖓 𝖘𝖔𝖚𝖗𝖈𝖊 𝖈𝖔𝖉𝖊 𝖎𝖘 𝖎𝖓 𝖞𝖔𝖚𝖗 𝖍𝖆𝖓𝖉 𝖔𝖙𝖍𝖊𝖗𝖜𝖎𝖘𝖊 𝖞𝖔𝖚 𝖋𝖔𝖗𝖌𝖊𝖙 𝖙𝖍𝖊 𝖘𝖔𝖚𝖗𝖈𝖊 𝖈𝖔𝖉𝖊✍.
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
