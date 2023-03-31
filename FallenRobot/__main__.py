@@ -72,32 +72,33 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-*ʜᴇʏ* {}, 🥀
+*𝐇𝐞𝐥𝐥𝐨 𝐁𝐢𝐫𝐨* {}, 🥀
 
-*๏ ᴛʜɪs ɪs* {} !
-➻ ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
+*๏ 🅘 🅐🅜* {} !
+➻ 𝕴 𝖆𝖒 𝖙𝖍𝖊 𝖘𝖕𝖊𝖈𝖎𝖆𝖑 𝖌𝖗𝖔𝖚𝖕 𝖒𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝖇𝖔𝖙 𝖜𝖎𝖙𝖍 𝖓𝖊𝖜 𝖆𝖓𝖉 𝖘𝖕𝖊𝖈𝖎𝖆𝖑 𝖋𝖊𝖆𝖙𝖚𝖗𝖊𝖘.
 
 ──────────────────
-*๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴍᴏᴅᴜʟᴇs ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs.*
+*๏ 𝔗𝔬 𝔤𝔢𝔱 𝔪𝔬𝔯𝔢 𝔦𝔫𝔣𝔬𝔯𝔪𝔞𝔱𝔦𝔬𝔫 𝔞𝔟𝔬𝔲𝔱 𝔪𝔢 𝔞𝔫𝔡 𝔪𝔶 𝔣𝔢𝔞𝔱𝔲𝔯𝔢𝔰 𝔰𝔬 𝔭𝔩𝔢𝔞𝔰𝔢 𝔠𝔩𝔦𝔠𝔨 𝔬𝔫 𝔥𝔢𝔩𝔭 𝔟𝔲𝔱𝔱𝔬𝔫.*
+*©️ ɮʟǟƈӄʍǟʍɮǟ*
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
+            text="ǟɖɖ ʍɛ ɨռ ʏօʊʀ ɢʀօʊք 🤩",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"),
+        InlineKeyboardButton(text="ɦɛʟք & ƈօʍʍǟռɖֆ", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="❄ ᴀʙᴏᴜᴛ ❄", callback_data="Gorilla_"),
-        InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="❄ ռɛȶաօʀӄ ❄", callback_data="https://t.me/GORILLA_NETWORK"),
+        InlineKeyboardButton(text="✨ ֆʊքքօʀȶ ✨", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
-        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="☁️ sᴏᴜʀᴄᴇ ☁️", callback_data="source_"),
+        InlineKeyboardButton(text="😎 օառɛʀ 😎", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="☁️ ʀɛքօ ☁️", callback_data="source_"),
     ],
 ]
 
@@ -438,21 +439,21 @@ def Source_about_callback(update: Update, context: CallbackContext):
     if query.data == "source_":
         query.message.edit_text(
             text=f"""
-*ʜᴇʏ,
- ᴛʜɪs ɪs {BOT_NAME},
-ᴀɴ ᴏᴩᴇɴ sᴏᴜʀᴄᴇ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.*
+*𝐻𝐸𝑀𝐿𝒪,
+ 𝐼 𝒜𝑀 {BOT_NAME},
+𝓉𝑒𝓁𝑒𝑔𝓇𝒶𝓂 𝑔𝓇𝑜𝓊𝓅 𝓂𝒶𝓃𝒶𝑔𝑒𝓂𝑒𝓃𝓉 𝒷𝑜𝓉.*
 
-ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ : [ᴛᴇʟᴇᴛʜᴏɴ](https://github.com/LonamiWebs/Telethon)
-[ᴩʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)
-[ᴩʏᴛʜᴏɴ-ᴛᴇʟᴇɢʀᴀᴍ-ʙᴏᴛ](https://github.com/python-telegram-bot/python-telegram-bot)
-ᴀɴᴅ ᴜsɪɴɢ [sǫʟᴀʟᴄʜᴇᴍʏ](https://www.sqlalchemy.org) ᴀɴᴅ [ᴍᴏɴɢᴏ](https://cloud.mongodb.com) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
+🅣🅗🅘🅢 🅒🅞🅓🅔 🅘🅢 🅦🅡🅘🅣🅣🅔🅝 🅘🅝 🅟🅨🅣🅗🅞🅝 🅣🅗🅡🅞🅤🅖🅗  : [ᴛᴇʟᴇᴛʜᴏɴ](https://github.com/LonamiWebs/Telethon)
+[ᵖʸʳᵒᵍʳᵃᵐ](https://github.com/pyrogram/pyrogram)
+[ᵖʸᵗʰᵒⁿ-ᵗᵉˡᵉᵍʳᵃᵐ-ᵇᵒᵗ](https://github.com/python-telegram-bot/python-telegram-bot)
+𝒜𝓃𝒹 𝓊𝓈𝒾𝓃𝑔 [𝒮𝓆𝓁𝒶𝓁𝒸𝒽𝑒𝓂𝓎](https://www.sqlalchemy.org) 𝒶𝓃𝒹 [𝓂𝒶𝓃𝑔𝑜](https://cloud.mongodb.com) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
 
 
-*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [ɢɪᴛʜᴜʙ](https://github.com/FantasticSukhi/GorillaRobot)
-*ʜᴇʀᴇ ɪꜱ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ:*[ʏᴏᴜᴛᴜʙᴇ](www.youtube.com/channel/UC-fmEkPQ0J-o3X73g4XvnnQ)
+*🄶🄾🅁🄸🄻🄻🄰 🅂🄾🅄🅁🄲🄴 🄲🄾🄳🄴 :* [ѕσυя¢є](https://github.com/FantasticSukhi/GorillaRobot)
+*🄼🅈 🅈🄾🅄🅃🅄🄱🄴 🄲🄷🄰🄽🄽🄴🄻:*[уσυтυвє](www.youtube.com/channel/UC-fmEkPQ0J-o3X73g4XvnnQ)
 
-{BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://github.com/FantasticSukhi/GorillaRobot/blob/master/LICENSE).
-© 2023 - 2024 | [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_CHAT}), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
+{BOT_NAME} тнιѕ вσт ιѕ мαιηтαιηιηg ву вℓα¢кмαмвα αη∂ ℓι¢єη¢ιηg σƒ тнιѕ вσт ιѕ υη∂єя тнє[ℓι¢єη¢є](https://github.com/FantasticSukhi/GorillaRobot/blob/master/LICENSE).
+© 𝕱𝖆𝖓𝖙𝖆𝖘𝖙𝖎𝖈𝕾𝖚𝖐𝖍𝖎✍ || [𝔖𝔲𝔭𝔭𝔬𝔯𝔱 𝔠𝔥𝔞𝔱](https://t.me/{SUPPORT_CHAT})|| 𝕹𝖔𝖙𝖊 :- 𝕴𝖋 𝖞𝖔𝖚 𝖜𝖆𝖓𝖙 𝖘𝖔𝖚𝖗𝖈𝖊 𝖈𝖔𝖉𝖊 𝖋𝖎𝖗𝖘𝖙𝖑𝖞 𝖉𝖔 𝖕𝖆𝖞𝖒𝖊𝖓𝖙 𝖜𝖍𝖎𝖈𝖍 𝖎𝖘 𝕽𝖘.𝟓𝟎𝟎𝟎 𝖆𝖓𝖉 𝖙𝖍𝖊𝖓 𝖘𝖊𝖓𝖉 𝖘𝖈𝖗𝖊𝖊𝖓𝖘𝖍𝖔𝖙 𝖎𝖋 𝖕𝖆𝖞𝖊𝖒𝖙 𝖎𝖘 𝖗𝖊𝖆𝖑𝖑𝖞 𝖉𝖔𝖓𝖊 𝖙𝖍𝖊𝖓 𝖘𝖔𝖚𝖗𝖈𝖊 𝖎𝖘 𝖎𝖓 𝖞𝖔𝖚𝖗 𝖍𝖆𝖓𝖉 𝖔𝖙𝖍𝖊𝖗𝖜𝖎𝖘𝖊 𝖞𝖔𝖚 𝖋𝖔𝖗𝖌𝖊𝖙 𝖙𝖍𝖊 𝖘𝖔𝖚𝖗𝖈𝖊 𝖈𝖔𝖉𝖊✍.
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -497,12 +498,12 @@ def get_help(update: Update, context: CallbackContext):
             )
             return
         update.effective_message.reply_text(
-            "» ᴄʜᴏᴏsᴇ ᴀɴ ᴏᴩᴛɪᴏɴ ғᴏʀ ɢᴇᴛᴛɪɴɢ ʜᴇʟᴩ.",
+            "» ¢нσσѕє αη∂ σρтιση ƒσя gєттιηg нєℓρ.",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton(
-                            text="ᴏᴩᴇɴ ɪɴ ᴩʀɪᴠᴀᴛᴇ",
+                            text="σρєη ιη ∂м",
                             url="https://t.me/{}?start=help".format(
                                 context.bot.username
                             ),
@@ -510,7 +511,7 @@ def get_help(update: Update, context: CallbackContext):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴏᴩᴇɴ ʜᴇʀᴇ",
+                            text="σρєη нєяє",
                             callback_data="help_back",
                         )
                     ],
@@ -725,10 +726,11 @@ def main():
 ㅤ🥀 {BOT_NAME} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ...
 
 ┏•❅────✧❅✦❅✧────❅•┓
-ㅤ★ **ᴘʏᴛʜᴏɴ :** `{y()}`
-ㅤ★ **ʟɪʙʀᴀʀʏ :** `{telever}`
-ㅤ★ **ᴛᴇʟᴇᴛʜᴏɴ :** `{tlhver}`
-ㅤ★ **ᴩʏʀᴏɢʀᴀᴍ :** `{pyrover}`
+ㅤ★ **𝖕𝖞𝖙𝖍𝖔𝖓✍ :** `{y()}`
+ㅤ★ **𝖑𝖎𝖇𝖗𝖆𝖗𝖞✍ :** `{telever}`
+ㅤ★ **𝖙𝖊𝖑𝖊𝖙𝖍𝖔𝖓✍ :** `{tlhver}`
+ㅤ★ **𝖕𝖞𝖗𝖔𝖌𝖗𝖆𝖒✍ :** `{pyrover}`
+  ★ **𝕺𝖜𝖓𝖊𝖗✍ :** `@MAMBA_RETURNS`
 ┗•❅────✧❅✦❅✧────❅•┛""",
                 parse_mode=ParseMode.MARKDOWN,
             )
