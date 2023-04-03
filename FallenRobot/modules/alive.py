@@ -11,11 +11,8 @@ from FallenRobot import BOT_NAME, BOT_USERNAME, OWNER_ID, START_IMG, SUPPORT_CHA
 async def awake(_, message: Message):
     TEXT = f"**ʜᴇʏ {message.from_user.mention},\n\nнємℓσ ι αм {BOT_NAME}**\n━━━━━━━━━━<>━━━━━━━━━\n\n"
     TEXT += f"» **му нєαятвєαт :** [🄱🄻🄰🄲🄺🄼🄰🄼🄱🄰](tg://user?id={OWNER_ID})\n\n"
-              \n━━━━━━━━━━<>━━━━━━━━━\n\n
     TEXT += f"» **ℓιвяαяу --»** `{telever}` \n\n"
-              \n━━━━━━━━━━<>━━━━━━━━━\n\n
     TEXT += f"» **тєℓєтнση --»** `{tlhver}` \n\n"
-              \n━━━━━━━━━━━<>━━━━━━━━\n\n
     TEXT += f"» **ρуяσgяαм --»** `{pyrover}` \n━━━━━━━━━<>━━━━━━━━\n\n"
     BUTTON = [
         [
