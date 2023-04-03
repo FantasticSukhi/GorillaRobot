@@ -108,7 +108,7 @@ buttons = [
         InlineKeyboardButton(text="✨ ֆʊքքօʀȶ ✨", url=f"https://t.me/GORILLA_SUPPORT"),
     ],
     [
-        InlineKeyboardButton(text="😎 օառɛʀ 😎", url=f"https://t.me/MMABA_RETURNS"),
+        InlineKeyboardButton(text="😎 օառɛʀ 😎", url=f"https://t.me/MAMBA_RETURNS"),
         InlineKeyboardButton(text="☁️ ʀɛքօ ☁️", callback_data="source_"),
     ],
 ]
