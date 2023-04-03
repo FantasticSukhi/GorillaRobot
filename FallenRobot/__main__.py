@@ -75,10 +75,21 @@ PM_START_TEXT = """
 *𝐇𝐞𝐥𝐥𝐨 𝐁𝐢𝐫𝐨* {}, 🥀
 
 *๏ 🅘 🅐🅜* {} !
-➻ 𝕴 𝖆𝖒 𝖙𝖍𝖊 𝖘𝖕𝖊𝖈𝖎𝖆𝖑 𝖌𝖗𝖔𝖚𝖕 𝖒𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝖇𝖔𝖙 𝖜𝖎𝖙𝖍 𝖓𝖊𝖜 𝖆𝖓𝖉 𝖘𝖕𝖊𝖈𝖎𝖆𝖑 𝖋𝖊𝖆𝖙𝖚𝖗𝖊𝖘.
+➻ 𝕴 𝖆𝖒 𝖙𝖍𝖊 𝖘𝖕𝖊𝖈𝖎𝖆𝖑 𝖌𝖗𝖔𝖚𝖕 𝖒𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝖇𝖔𝖙 𝖜𝖎𝖙𝖍 𝖓𝖊𝖜 𝖆𝖓𝖉 𝖘𝖕𝖊𝖈𝖎𝖆𝖑 𝖋𝖊𝖆𝖙𝖚𝖗𝖊𝖘. 𝕳𝖊𝖞𝖆𝖆 𝕭𝖎𝖗𝖔 !!!!! 𝕴 𝖐𝖓𝖔𝖜 𝖞𝖔𝖚 𝖆𝖗𝖊 𝖕𝖎𝖗𝖔.
+   𝔉𝔢𝔞𝔱𝔲𝔯𝔢𝔰 :-
+1️⃣<<<===>>> 𝔅𝔞𝔫 𝔓𝔬𝔴𝔢𝔯
+2️⃣<<<===>>> 𝔊𝔟𝔞𝔫 𝔓𝔬𝔴𝔢𝔯
+3️⃣<<<===>>> ℭ𝔥𝔞𝔱𝔅𝔬𝔱
+4️⃣<<<===>>> 𝔊𝔓𝔖 𝔗𝔯𝔞𝔠𝔨𝔦𝔫𝔤
+5️⃣<<<===>>> 𝔗𝔢𝔩𝔢𝔤𝔯𝔞𝔭𝔥 𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔬𝔯
+6️⃣<<<===>>> 𝔘𝔰𝔢𝔯 ℑ𝔫𝔣𝔬
+7️⃣<<<===>>> 𝔗𝔞𝔤𝔞𝔩𝔩
+8️⃣<<<===>>> 𝔖𝔭𝔢𝔢𝔡 𝔗𝔢𝔰𝔱𝔢𝔯
+9️⃣<<<===>>> 𝔑𝔦𝔤𝔥𝔱 𝔐𝔬𝔡𝔢
+🔟<<<===>>> 𝔐𝔲𝔱𝔢 𝔓𝔬𝔴𝔢𝔯
 
 ──────────────────
-*๏ 𝔗𝔬 𝔤𝔢𝔱 𝔪𝔬𝔯𝔢 𝔦𝔫𝔣𝔬𝔯𝔪𝔞𝔱𝔦𝔬𝔫 𝔞𝔟𝔬𝔲𝔱 𝔪𝔢 𝔞𝔫𝔡 𝔪𝔶 𝔣𝔢𝔞𝔱𝔲𝔯𝔢𝔰 𝔰𝔬 𝔭𝔩𝔢𝔞𝔰𝔢 𝔠𝔩𝔦𝔠𝔨 𝔬𝔫 𝔥𝔢𝔩𝔭 𝔟𝔲𝔱𝔱𝔬𝔫.*
+*⚫ 𝔗𝔬 𝔤𝔢𝔱 𝔪𝔬𝔯𝔢 𝔦𝔫𝔣𝔬𝔯𝔪𝔞𝔱𝔦𝔬𝔫 𝔞𝔟𝔬𝔲𝔱 𝔪𝔢 𝔞𝔫𝔡 𝔪𝔶 𝔣𝔢𝔞𝔱𝔲𝔯𝔢𝔰 𝔰𝔬 𝔭𝔩𝔢𝔞𝔰𝔢 𝔠𝔩𝔦𝔠𝔨 𝔬𝔫 𝔥𝔢𝔩𝔭 𝔟𝔲𝔱𝔱𝔬𝔫.*
 *©️ ɮʟǟƈӄʍǟʍɮǟ*
 """
 
@@ -94,21 +105,21 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="🧑‍🤝‍🧑ռɛȶաօʀӄ 🧑‍🤝‍🧑", callback_data="https://t.me/GORILLA_NETWORK"),
-        InlineKeyboardButton(text="✨ ֆʊքքօʀȶ ✨", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="✨ ֆʊքքօʀȶ ✨", url=f"https://t.me/GORILLA_SUPPORT"),
     ],
     [
-        InlineKeyboardButton(text="😎 օառɛʀ 😎", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="😎 օառɛʀ 😎", url=f"https://t.me/MMABA_RETURNS"),
         InlineKeyboardButton(text="☁️ ʀɛքօ ☁️", callback_data="source_"),
     ],
 ]
 
 HELP_STRINGS = f"""
-*» {BOT_NAME} ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs*
+*» {BOT_NAME} 𝔈𝔵𝔢𝔠𝔲𝔱𝔦𝔫𝔤 𝔉𝔢𝔞𝔱𝔲𝔯𝔢𝔰*
 
-➲ /start : ꜱᴛᴀʀᴛꜱ ᴍᴇ | ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴍᴇ ʏᴏᴜ'ᴠᴇ ᴀʟʀᴇᴀᴅʏ ᴅᴏɴᴇ ɪᴛ.
-➲ /help  : ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅꜱ ꜱᴇᴄᴛɪᴏɴ.
-  ‣ ɪɴ ᴘᴍ : ᴡɪʟʟ ꜱᴇɴᴅ ʏᴏᴜ ʜᴇʟᴘ ꜰᴏʀ ᴀʟʟ ꜱᴜᴘᴘᴏʀᴛᴇᴅ ᴍᴏᴅᴜʟᴇꜱ.
-  ‣ ɪɴ ɢʀᴏᴜᴘ : ᴡɪʟʟ ʀᴇᴅɪʀᴇᴄᴛ ʏᴏᴜ ᴛᴏ ᴘᴍ, ᴡɪᴛʜ ᴀʟʟ ᴛʜᴀᴛ ʜᴇʟᴘ ᴍᴏᴅᴜʟᴇꜱ."""
+➲ /start : 𝔖𝔱𝔞𝔯𝔱 𝔪𝔢 | 𝔄𝔠𝔠𝔬𝔯𝔡𝔦𝔫𝔤 𝔱𝔬 𝔪𝔢 𝔶𝔬𝔲 𝔥𝔞𝔳𝔢 𝔞𝔩𝔯𝔢𝔞𝔡𝔶 𝔡𝔬𝔫𝔢 𝔦𝔱..
+➲ /help  : 𝔄𝔳𝔞𝔦𝔩𝔞𝔟𝔩𝔢 𝔠𝔬𝔪𝔪𝔞𝔫𝔡 𝔖𝔢𝔠𝔱𝔦𝔬𝔫.
+  ‣ ɪɴ ᴘᴍ : 𝔚𝔦𝔩𝔩 𝔰𝔢𝔫𝔡 𝔶𝔬𝔲 𝔥𝔢𝔩𝔭 𝔣𝔬𝔯 𝔞𝔩𝔩 𝔰𝔲𝔭𝔭𝔬𝔯𝔱𝔢𝔡 𝔪𝔬𝔡𝔲𝔩𝔢𝔰.
+  ‣ ɪɴ ɢʀᴏᴜᴘ : 𝔚𝔦𝔩𝔩 𝔡𝔦𝔯𝔢𝔠𝔱𝔩𝔶 𝔶𝔬𝔲 𝔱𝔬 𝔓𝔐, 𝔴𝔦𝔱𝔥 𝔞𝔩𝔩 𝔱𝔥𝔞𝔱 𝔥𝔢𝔩𝔭 𝔐𝔬𝔡𝔲𝔩𝔢𝔰."""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -217,7 +228,7 @@ def start(update: Update, context: CallbackContext):
     else:
         update.effective_message.reply_photo(
             START_IMG,
-            caption="ɪ ᴀᴍ ᴀʟɪᴠᴇ ʙᴀʙʏ !\n<b>ɪ ᴅɪᴅɴ'ᴛ sʟᴇᴘᴛ sɪɴᴄᴇ​:</b> <code>{}</code>".format(
+            caption="ℑ 𝔞𝔪 𝔞𝔩𝔦𝔳𝔢 𝔟𝔞𝔟𝔶 !\n<b>ℑ 𝔡𝔦𝔡𝔫'𝔱 𝔰𝔩𝔢𝔭𝔱 𝔰𝔦𝔫𝔠𝔢​:</b> <code>{}</code>".format(
                 uptime
             ),
             parse_mode=ParseMode.HTML,
@@ -296,7 +307,7 @@ def help_button(update, context):
         if mod_match:
             module = mod_match.group(1)
             text = (
-                "» *ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs ꜰᴏʀ* *{}* :\n".format(
+                "» *𝕬𝖛𝖆𝖎𝖑𝖆𝖇𝖑𝖊 𝖈𝖔𝖒𝖒𝖆𝖓𝖉𝖘 𝖋𝖔𝖗* *{}* :\n".format(
                     HELPABLE[module].__mod_name__
                 )
                 + HELPABLE[module].__help__
@@ -351,38 +362,38 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
     if query.data == "fallen_":
         uptime = get_readable_time((time.time() - StartTime))
         query.message.edit_text(
-            text=f"*ʜᴇʏ,*🥀\n  *ᴛʜɪs ɪs {BOT_NAME}*"
-            "\n*ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ʙᴜɪʟᴛ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴇᴀꜱɪʟʏ ᴀɴᴅ ᴛᴏ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ꜰʀᴏᴍ ꜱᴄᴀᴍᴍᴇʀꜱ ᴀɴᴅ ꜱᴘᴀᴍᴍᴇʀꜱ.*"
-            "\n*ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ sǫʟᴀʟᴄʜᴇᴍʏ ᴀɴᴅ ᴍᴏɴɢᴏᴅʙ ᴀs ᴅᴀᴛᴀʙᴀsᴇ.*"
+            text=f"*ℌ𝔢𝔶𝔞,*🥀\n  *ℑ 𝔞𝔪 {BOT_NAME}*"
+            "\n*𝔗𝔥𝔦𝔰 𝔦𝔰 𝔓𝔬𝔴𝔢𝔯𝔣𝔲𝔩𝔩 𝔤𝔯𝔬𝔲𝔭 𝔪𝔞𝔫𝔞𝔤𝔢𝔪𝔢𝔫𝔱 𝔟𝔬𝔱. 𝔗𝔥𝔦𝔰 𝔟𝔬𝔱 𝔥𝔢𝔩𝔭𝔰 𝔶𝔬𝔲 𝔱𝔬𝔬 𝔪𝔞𝔫𝔞𝔤𝔢 𝔶𝔬𝔲𝔯 𝔤𝔯𝔬𝔲𝔭. 𝔗𝔥𝔦𝔰 𝔟𝔬𝔱 𝔴𝔦𝔩𝔩 𝔟𝔢 𝔭𝔯𝔬𝔱𝔢𝔠𝔱 𝔶𝔬𝔲𝔯 𝔤𝔯𝔬𝔲𝔭 𝔣𝔯𝔬𝔪 𝔰𝔠𝔞𝔪𝔪𝔢𝔯𝔰 𝔞𝔫𝔡 𝔖𝔭𝔞𝔪𝔪𝔢𝔯𝔰.*"
+            "\n*𝔚𝔯𝔦𝔱𝔱𝔢𝔫 𝔦𝔫 𝔭𝔶𝔱𝔥𝔬𝔫 𝔴𝔦𝔱𝔥 𝔖𝔮𝔩𝔞𝔩𝔠𝔥𝔢𝔪𝔶 𝔞𝔫𝔡 𝔐𝔞𝔫𝔤𝔬𝔇𝔟 𝔞𝔰 𝔇𝔞𝔱𝔞𝔟𝔞𝔰𝔢..*"
             "\n\n────────────────────"
-            f"\n*➻ ᴜᴩᴛɪᴍᴇ »* {uptime}"
-            f"\n*➻ ᴜsᴇʀs »* {sql.num_users()}"
-            f"\n*➻ ᴄʜᴀᴛs »* {sql.num_chats()}"
+            f"\n*➻ 𝔘𝔭𝔱𝔦𝔪𝔢 »* {uptime}"
+            f"\n*➻ 𝔘𝔰𝔢𝔯𝔰 »* {sql.num_users()}"
+            f"\n*➻ ℭ𝔥𝔞𝔱𝔰 »* {sql.num_chats()}"
             "\n────────────────────"
-            "\n\n➲  ɪ ᴄᴀɴ ʀᴇꜱᴛʀɪᴄᴛ ᴜꜱᴇʀꜱ."
-            "\n➲  ɪ ʜᴀᴠᴇ ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴛɪ-ꜰʟᴏᴏᴅ ꜱʏꜱᴛᴇᴍ."
-            "\n➲  ɪ ᴄᴀɴ ɢʀᴇᴇᴛ ᴜꜱᴇʀꜱ ᴡɪᴛʜ ᴄᴜꜱᴛᴏᴍɪᴢᴀʙʟᴇ ᴡᴇʟᴄᴏᴍᴇ ᴍᴇꜱꜱᴀɢᴇꜱ ᴀɴᴅ ᴇᴠᴇɴ ꜱᴇᴛ ᴀ ɢʀᴏᴜᴘ'ꜱ ʀᴜʟᴇꜱ."
-            "\n➲  ɪ ᴄᴀɴ ᴡᴀʀɴ ᴜꜱᴇʀꜱ ᴜɴᴛɪʟ ᴛʜᴇʏ ʀᴇᴀᴄʜ ᴍᴀx ᴡᴀʀɴꜱ, ᴡɪᴛʜ ᴇᴀᴄʜ ᴘʀᴇᴅᴇꜰɪɴᴇᴅ ᴀᴄᴛɪᴏɴꜱ ꜱᴜᴄʜ ᴀꜱ ʙᴀɴ, ᴍᴜᴛᴇ, ᴋɪᴄᴋ, ᴇᴛᴄ."
-            "\n➲  ɪ ʜᴀᴠᴇ ᴀ ɴᴏᴛᴇ ᴋᴇᴇᴘɪɴɢ ꜱʏꜱᴛᴇᴍ, ʙʟᴀᴄᴋʟɪꜱᴛꜱ, ᴀɴᴅ ᴇᴠᴇɴ ᴘʀᴇᴅᴇᴛᴇʀᴍɪɴᴇᴅ ʀᴇᴘʟɪᴇꜱ ᴏɴ ᴄᴇʀᴛᴀɪɴ ᴋᴇʏᴡᴏʀᴅꜱ."
-            f"\n\n➻ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ғᴏʀ ɢᴇᴛᴛɪɴɢ ʙᴀsɪᴄ ʜᴇʟᴩ ᴀɴᴅ ɪɴғᴏ ᴀʙᴏᴜᴛ {BOT_NAME}.",
+            "\n\n➲  ℑ 𝔠𝔞𝔫 ℜ𝔢𝔰𝔱𝔯𝔦𝔠𝔱 𝔱𝔥𝔢 𝔲𝔰𝔢𝔯𝔰."
+            "\n➲  ℑ 𝔥𝔞𝔳𝔢 𝔞𝔫 𝔞𝔡𝔳𝔞𝔫𝔠𝔢𝔡 𝔞𝔫𝔱𝔦-𝔣𝔩𝔬𝔬𝔡 𝔣𝔢𝔞𝔱𝔲𝔯𝔢𝔰."
+            "\n➲  ℑ 𝔠𝔞𝔫 𝔤𝔯𝔢𝔢𝔱 𝔱𝔥𝔢 𝔲𝔰𝔢𝔯𝔰 𝔴𝔦𝔱𝔥 𝔠𝔲𝔰𝔱𝔬𝔪𝔦𝔰𝔞𝔟𝔩𝔢 𝔴𝔢𝔩𝔠𝔬𝔪𝔢 𝔪𝔢𝔰𝔰𝔞𝔤𝔢𝔰 𝔞𝔫𝔡 𝔢𝔳𝔢𝔫 𝔞 𝔤𝔯𝔬𝔲𝔭 𝔯𝔲𝔩𝔢.."
+            "\n➲  ℑ 𝔠𝔞𝔫 𝔴𝔞𝔯𝔫 𝔲𝔰𝔢𝔯𝔰 𝔲𝔫𝔱𝔦𝔩 𝔱𝔥𝔢𝔶 𝔯𝔢𝔞𝔠𝔥 𝔪𝔞𝔵 𝔴𝔞𝔯𝔫𝔰, 𝔴𝔦𝔱𝔥 𝔢𝔞𝔠𝔥 𝔭𝔯𝔢𝔡𝔢𝔣𝔦𝔫𝔢𝔡 𝔞𝔠𝔱𝔦𝔬𝔫𝔰 𝔰𝔲𝔠𝔥 𝔞𝔰 𝔟𝔞𝔫, 𝔪𝔲𝔱𝔢, 𝔨𝔦𝔠𝔨 𝔢𝔱𝔠.."
+            "\n➲  ℑ 𝔥𝔞𝔳𝔢 𝔞 𝔫𝔬𝔱𝔢 𝔨𝔢𝔢𝔭𝔦𝔫𝔤 𝔰𝔶𝔰𝔱𝔢𝔪, 𝔟𝔩𝔞𝔠𝔨𝔩𝔦𝔰𝔱𝔰 𝔞𝔫𝔡 𝔢𝔳𝔢𝔫 𝔭𝔯𝔢𝔡𝔢𝔱𝔢𝔯𝔪𝔦𝔫𝔢𝔡 𝔯𝔢𝔭𝔩𝔦𝔢𝔰 𝔬𝔫 𝔠𝔢𝔯𝔱𝔞𝔦𝔫 𝔨𝔢𝔶𝔴𝔬𝔯𝔡𝔰."
+            f"\n\n➻ ℭ𝔩𝔦𝔠𝔨 𝔬𝔫 𝔱𝔥𝔢 𝔟𝔲𝔱𝔱𝔬𝔫 𝔤𝔦𝔳𝔢𝔫 𝔟𝔢𝔩𝔬𝔴 𝔣𝔬𝔯 𝔤𝔢𝔱𝔱𝔦𝔫𝔤 𝔟𝔞𝔰𝔦𝔠 𝔥𝔢𝔩𝔭 𝔞𝔫𝔡 𝔦𝔫𝔣𝔬 𝔞𝔟𝔬𝔲𝔱 {BOT_NAME}.",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton(
-                            text="sᴜᴩᴩᴏʀᴛ", callback_data="Gorrila_support"
+                            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭", callback_data="Gorrila_support"
                         ),
                         InlineKeyboardButton(
-                            text="ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"
+                            text="𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬", callback_data="help_back"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id={OWNER_ID}"
+                            text="𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫", url=f"tg://user?id={OWNER_ID}"
                         ),
                         InlineKeyboardButton(
-                            text="sᴏᴜʀᴄᴇ",
+                            text="𝐒𝐨𝐮𝐫𝐜𝐞",
                             callback_data="source_",
                         ),
                     ],
@@ -394,25 +405,25 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "Gorrila_support":
         query.message.edit_text(
-            text="*๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ʜᴇʟᴩ ᴀɴᴅ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍᴇ.*"
-            f"\n\nɪғ ʏᴏᴜ ғᴏᴜɴᴅ ᴀɴʏ ʙᴜɢ ɪɴ {BOT_NAME} ᴏʀ ɪғ ʏᴏᴜ ᴡᴀɴɴᴀ ɢɪᴠᴇ ғᴇᴇᴅʙᴀᴄᴋ ᴀʙᴏᴜᴛ ᴛʜᴇ {BOT_NAME}, ᴩʟᴇᴀsᴇ ʀᴇᴩᴏʀᴛ ɪᴛ ᴀᴛ sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ.",
+            text="*๏ ℭ𝔩𝔦𝔠𝔨 𝔬𝔫 𝔱𝔥𝔢 𝔟𝔲𝔱𝔱𝔬𝔫 𝔤𝔦𝔳𝔢𝔫 𝔟𝔢𝔩𝔬𝔴 𝔱𝔬 𝔤𝔢𝔱 𝔥𝔢𝔩𝔭 𝔞𝔫𝔡 𝔪𝔬𝔯𝔢 𝔦𝔫𝔣𝔬 𝔞𝔟𝔬𝔲𝔱 𝔪𝔢.*"
+            f"\n\nℑ𝔣 𝔶𝔬𝔲 𝔣𝔦𝔫𝔡 𝔞𝔫𝔶 𝔟𝔲𝔤 𝔦𝔫 {BOT_NAME} 𝔬𝔯 𝔦𝔣 𝔶𝔬𝔲 𝔴𝔞𝔫𝔫𝔞 𝔤𝔦𝔳𝔢𝔫 𝔣𝔢𝔢𝔡𝔟𝔞𝔠𝔨 𝔞𝔟𝔬𝔲𝔱 𝔪𝔢 {BOT_NAME}, .",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton(
-                            text="sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
+                            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/{SUPPORT_CHAT}"
+                            text="𝐔𝐩𝐝𝐚𝐭𝐞𝐬", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id={OWNER_ID}"
+                            text="𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫", url=f"tg://user?id={OWNER_ID}"
                         ),
                         InlineKeyboardButton(
-                            text="ɢɪᴛʜᴜʙ",
+                            text="𝐂𝐨𝐝𝐞",
                             url="https://www.pornhub.com",
                         ),
                     ],
