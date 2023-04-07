@@ -60,14 +60,14 @@ def no_longer_afk(update: Update, context: CallbackContext):
         firstname = update.effective_user.first_name
         try:
             options = [
-                "{} is here!",
-                "{} is back!",
-                "{} is now in the chat!",
-                "{} is awake!",
-                "{} is back online!",
-                "{} is finally here!",
-                "Welcome back! {}",
-                "Where is {}?\nIn the chat!",
+                "{} ⁱˢ ʰᵉʳᵉ!",                 
+                "{} ⁱˢ ᵇᵃᶜᵏ!",                 
+                "{} ⁱˢ ⁿᵒʷ ⁱⁿ ᵗʰᵉ ᶜʰᵃᵗ!",                 
+                "{} ⁱˢ ᵃʷᵃᵏᵉ!",                 
+                "{} ⁱˢ ᵇᵃᶜᵏ ᵒⁿˡⁱⁿᵉ!",                 
+                "{} ⁱˢ ᶠⁱⁿᵃˡˡʸ ʰᵉʳᵉ!",                 
+                "ᵂᵉˡᶜᵒᵐᵉ ᵇᵃᶜᵏ! {}",                 
+                "ᵂʰᵉʳᵉ ⁱˢ {}?\ⁿᴵⁿ ᵗʰᵉ ᶜʰᵃᵗ!",
             ]
             chosen_option = random.choice(options)
             update.effective_message.reply_text(chosen_option.format(firstname))
@@ -140,11 +140,10 @@ def check_afk(update, context, user_id, fst_name, userc_id):
             update.effective_message.reply_text(res, parse_mode="html")
 
 
-__help__ = """
-*Away from group*
- ❍ /afk <reason>*:* mark yourself as AFK(away from keyboard).
- ❍ brb <reason>*:* same as the afk command - but not a command.
-When marked as AFK, any mentions will be replied to with a message to say you're not available!
+__help__ = """ⲯ﹍︿﹍︿﹍ *𝙰𝚠𝚊𝚢 𝚏𝚛𝚘𝚖 𝚐𝚛𝚘𝚞𝚙*  
+❍ /𝚊𝚏𝚔 <𝚛𝚎𝚊𝚜𝚘𝚗>*:* 𝚖𝚊𝚛𝚔 𝚢𝚘𝚞𝚛𝚜𝚎𝚕𝚏 𝚊𝚜 𝙰𝙵𝙺(𝚊𝚠𝚊𝚢 𝚏𝚛𝚘𝚖 𝚔𝚎𝚢𝚋𝚘𝚊𝚛𝚍).  
+❍ 𝚋𝚛𝚋 <𝚛𝚎𝚊𝚜𝚘𝚗>*:* 𝚜𝚊𝚖𝚎 𝚊𝚜 𝚝𝚑𝚎 𝚊𝚏𝚔 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 - 𝚋𝚞𝚝 𝚗𝚘𝚝 𝚊 𝚌𝚘𝚖𝚖𝚊𝚗𝚍. 
+𝚆𝚑𝚎𝚗 𝚖𝚊𝚛𝚔𝚎𝚍 𝚊𝚜 𝙰𝙵𝙺, 𝚊𝚗𝚢 𝚖𝚎𝚗𝚝𝚒𝚘𝚗𝚜 𝚠𝚒𝚕𝚕 𝚋𝚎 𝚛𝚎𝚙𝚕𝚒𝚎𝚍 𝚝𝚘 𝚠𝚒𝚝𝚑 𝚊 𝚖𝚎𝚜𝚜𝚊𝚐𝚎 𝚝𝚘 𝚜𝚊𝚢 𝚢𝚘𝚞'𝚛𝚎 𝚗𝚘𝚝 𝚊𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎! ﹍ⲯ﹍ⲯ﹍︿﹍☼
 """
 
 AFK_HANDLER = DisableAbleCommandHandler("afk", afk)
