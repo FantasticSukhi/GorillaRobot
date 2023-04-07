@@ -75,20 +75,20 @@ PM_START_TEXT = """
 *𝐇𝐞𝐥𝐥𝐨 𝐁𝐢𝐫𝐨* {}, 🥀
 
 *๏ 🅘 🅐🅜* {} !
-➻ 𝕴 𝖆𝖒 𝖙𝖍𝖊 𝖘𝖕𝖊𝖈𝖎𝖆𝖑 𝖌𝖗𝖔𝖚𝖕 𝖒𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝖇𝖔𝖙 𝖜𝖎𝖙𝖍 𝖓𝖊𝖜 𝖆𝖓𝖉 𝖘𝖕𝖊𝖈𝖎𝖆𝖑 𝖋𝖊𝖆𝖙𝖚𝖗𝖊𝖘. 𝕳𝖊𝖞𝖆𝖆 𝕭𝖎𝖗𝖔 !!!!! 𝕴 𝖐𝖓𝖔𝖜 𝖞𝖔𝖚 𝖆𝖗𝖊 𝖕𝖎𝖗𝖔.
+⩺ 𝕴 𝖆𝖒 𝖙𝖍𝖊 𝖘𝖕𝖊𝖈𝖎𝖆𝖑 𝖌𝖗𝖔𝖚𝖕 𝖒𝖆𝖓𝖆𝖌𝖊𝖒𝖊𝖓𝖙 𝖇𝖔𝖙 𝖜𝖎𝖙𝖍 𝖓𝖊𝖜 𝖆𝖓𝖉 𝖘𝖕𝖊𝖈𝖎𝖆𝖑 𝖋𝖊𝖆𝖙𝖚𝖗𝖊𝖘. 𝕳𝖊𝖞𝖆𝖆 𝕭𝖎𝖗𝖔 !!!!! 𝕴 𝖐𝖓𝖔𝖜 𝖞𝖔𝖚 𝖆𝖗𝖊 𝖕𝖎𝖗𝖔.
    𝔉𝔢𝔞𝔱𝔲𝔯𝔢𝔰 :-
-1️⃣<<<===>>> 𝔅𝔞𝔫 𝔓𝔬𝔴𝔢𝔯
-2️⃣<<<===>>> 𝔊𝔟𝔞𝔫 𝔓𝔬𝔴𝔢𝔯
-3️⃣<<<===>>> ℭ𝔥𝔞𝔱𝔅𝔬𝔱
-4️⃣<<<===>>> 𝔊𝔓𝔖 𝔗𝔯𝔞𝔠𝔨𝔦𝔫𝔤
-5️⃣<<<===>>> 𝔗𝔢𝔩𝔢𝔤𝔯𝔞𝔭𝔥 𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔬𝔯
-6️⃣<<<===>>> 𝔘𝔰𝔢𝔯 ℑ𝔫𝔣𝔬
-7️⃣<<<===>>> 𝔗𝔞𝔤𝔞𝔩𝔩
-8️⃣<<<===>>> 𝔖𝔭𝔢𝔢𝔡 𝔗𝔢𝔰𝔱𝔢𝔯
-9️⃣<<<===>>> 𝔑𝔦𝔤𝔥𝔱 𝔐𝔬𝔡𝔢
+1️⃣<<<==>>> 𝔅𝔞𝔫 𝔓𝔬𝔴𝔢𝔯
+2️⃣<<<==>>> 𝔊𝔟𝔞𝔫 𝔓𝔬𝔴𝔢𝔯
+3️⃣<<<==>>> ℭ𝔥𝔞𝔱𝔅𝔬𝔱
+4️⃣<<<==>>> 𝔊𝔓𝔖 𝔗𝔯𝔞𝔠𝔨𝔦𝔫𝔤
+5️⃣<<<==>>> 𝔗𝔢𝔩𝔢𝔤𝔯𝔞𝔭𝔥 𝔊𝔢𝔫𝔢𝔯𝔞𝔱𝔬𝔯
+6️⃣<<<==>>> 𝔘𝔰𝔢𝔯 ℑ𝔫𝔣𝔬
+7️⃣<<<==>>> 𝔗𝔞𝔤𝔞𝔩𝔩
+8️⃣<<<==>>> 𝔖𝔭𝔢𝔢𝔡 𝔗𝔢𝔰𝔱𝔢𝔯
+9️⃣<<<==>>> 𝔑𝔦𝔤𝔥𝔱 𝔐𝔬𝔡𝔢
 🔟<<<===>>> 𝔐𝔲𝔱𝔢 𝔓𝔬𝔴𝔢𝔯
 
-──────────────────
+◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊
 *⚫ 𝔗𝔬 𝔤𝔢𝔱 𝔪𝔬𝔯𝔢 𝔦𝔫𝔣𝔬𝔯𝔪𝔞𝔱𝔦𝔬𝔫 𝔞𝔟𝔬𝔲𝔱 𝔪𝔢 𝔞𝔫𝔡 𝔪𝔶 𝔣𝔢𝔞𝔱𝔲𝔯𝔢𝔰 𝔰𝔬 𝔭𝔩𝔢𝔞𝔰𝔢 𝔠𝔩𝔦𝔠𝔨 𝔬𝔫 𝔥𝔢𝔩𝔭 𝔟𝔲𝔱𝔱𝔬𝔫.*
 *©️ ɮʟǟƈӄʍǟʍɮǟ*
 """
@@ -317,7 +317,7 @@ def help_button(update, context):
                 parse_mode=ParseMode.MARKDOWN,
                 disable_web_page_preview=True,
                 reply_markup=InlineKeyboardMarkup(
-                    [[InlineKeyboardButton(text="◁", callback_data="help_back")]]
+                    [[InlineKeyboardButton(text="⇦", callback_data="help_back")]]
                 ),
             )
 
@@ -398,7 +398,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                         ),
                     ],
                     [
-                        InlineKeyboardButton(text="◁", callback_data="fallen_back"),
+                        InlineKeyboardButton(text="⇦", callback_data="fallen_back"),
                     ],
                 ]
             ),
@@ -428,7 +428,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                         ),
                     ],
                     [
-                        InlineKeyboardButton(text="◁", callback_data="fallen_"),
+                        InlineKeyboardButton(text="⇦", callback_data="fallen_"),
                     ],
                 ]
             ),
@@ -543,7 +543,7 @@ def get_help(update: Update, context: CallbackContext):
             chat.id,
             text,
             InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="◁", callback_data="help_back")]]
+                [[InlineKeyboardButton(text="⇦", callback_data="help_back")]]
             ),
         )
 
@@ -586,8 +586,8 @@ def send_settings(chat_id, user_id, user=False):
         else:
             dispatcher.bot.send_message(
                 user_id,
-                "Seems like there aren't any chat settings available :'(\nSend this "
-                "in a group chat you're admin in to find its current settings!",
+                "𒆜ֆɛɛʍֆ ʟɨӄɛ ȶɦɛʀɛ ǟʀɛռ'ȶ ǟռʏ ƈɦǟȶ ֆɛȶȶɨռɢֆ ǟʋǟɨʟǟɮʟɛ :'(\ռֆɛռɖ ȶɦɨֆ 𒆜 "
+                "𒆜ɨռ ǟ ɢʀօʊք ƈɦǟȶ ʏօʊ'ʀɛ ǟɖʍɨռ ɨռ ȶօ ʄɨռɖ ɨȶֆ ƈʊʀʀɛռȶ ֆɛȶȶɨռɢֆ! 𒆜",
                 parse_mode=ParseMode.MARKDOWN,
             )
 
@@ -616,7 +616,7 @@ def settings_button(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="◁",
+                                text="⇦",
                                 callback_data="stngs_back({})".format(chat_id),
                             )
                         ]
@@ -629,8 +629,8 @@ def settings_button(update: Update, context: CallbackContext):
             curr_page = int(prev_match.group(2))
             chat = bot.get_chat(chat_id)
             query.message.reply_text(
-                "Hi there! There are quite a few settings for {} - go ahead and pick what "
-                "you're interested in.".format(chat.title),
+                "▄︻デɦɨ ȶɦɛʀɛ! ȶɦɛʀɛ ǟʀɛ զʊɨȶɛ ǟ ʄɛա ֆɛȶȶɨռɢֆ ʄօʀ {} - ɢօ ǟɦɛǟɖ ǟռɖ քɨƈӄ աɦǟȶ══━一 "
+                "▄︻デʏօʊ'ʀɛ ɨռȶɛʀɛֆȶɛɖ ɨռ.══━一".format(chat.title),
                 reply_markup=InlineKeyboardMarkup(
                     paginate_modules(
                         curr_page - 1, CHAT_SETTINGS, "stngs", chat=chat_id
@@ -643,8 +643,8 @@ def settings_button(update: Update, context: CallbackContext):
             next_page = int(next_match.group(2))
             chat = bot.get_chat(chat_id)
             query.message.reply_text(
-                "Hi there! There are quite a few settings for {} - go ahead and pick what "
-                "you're interested in.".format(chat.title),
+                "▄︻デɦɨ ȶɦɛʀɛ! ȶɦɛʀɛ ǟʀɛ զʊɨȶɛ ǟ ʄɛա ֆɛȶȶɨռɢֆ ʄօʀ {} - ɢօ ǟɦɛǟɖ ǟռɖ քɨƈӄ աɦǟȶ══━一 "
+                "▄︻デʏօʊ'ʀɛ ɨռȶɛʀɛֆȶɛɖ ɨռ.══━一.".format(chat.title),
                 reply_markup=InlineKeyboardMarkup(
                     paginate_modules(
                         next_page + 1, CHAT_SETTINGS, "stngs", chat=chat_id
@@ -656,8 +656,8 @@ def settings_button(update: Update, context: CallbackContext):
             chat_id = back_match.group(1)
             chat = bot.get_chat(chat_id)
             query.message.reply_text(
-                text="Hi there! There are quite a few settings for {} - go ahead and pick what "
-                "you're interested in.".format(escape_markdown(chat.title)),
+                text="▄︻デɦɨ ȶɦɛʀɛ! ȶɦɛʀɛ ǟʀɛ զʊɨȶɛ ǟ ʄɛա ֆɛȶȶɨռɢֆ ʄօʀ {} - ɢօ ǟɦɛǟɖ ǟռɖ քɨƈӄ աɦǟȶ══━一 "
+                "▄︻デʏօʊ'ʀɛ ɨռȶɛʀɛֆȶɛɖ ɨռ.══━一.".format(escape_markdown(chat.title)),
                 parse_mode=ParseMode.MARKDOWN,
                 reply_markup=InlineKeyboardMarkup(
                     paginate_modules(0, CHAT_SETTINGS, "stngs", chat=chat_id)
@@ -669,11 +669,11 @@ def settings_button(update: Update, context: CallbackContext):
         query.message.delete()
     except BadRequest as excp:
         if excp.message not in [
-            "Message is not modified",
-            "Query_id_invalid",
-            "Message can't be deleted",
+            "𝘔𝘦𝘴𝘴𝘢𝘨𝘦 𝘪𝘴 𝘯𝘰𝘵 𝘮𝘰𝘥𝘪𝘧𝘪𝘦𝘥",             
+            "𝘘𝘶𝘦𝘳𝘺_𝘪𝘥_𝘪𝘯𝘷𝘢𝘭𝘪𝘥",             
+            "𝘔𝘦𝘴𝘴𝘢𝘨𝘦 𝘤𝘢𝘯'𝘵 𝘣𝘦 𝘥𝘦𝘭𝘦𝘵𝘦𝘥",
         ]:
-            LOGGER.exception("Exception in settings buttons. %s", str(query.data))
+            LOGGER.exception("𝐄𝐱𝐜𝐞𝐩𝐭𝐢𝐨𝐧 𝐢𝐧 𝐬𝐞𝐭𝐭𝐢𝐧𝐠𝐬 𝐛𝐮𝐭𝐭𝐨𝐧. %s", str(query.data))
 
 
 @run_async
@@ -685,7 +685,7 @@ def get_settings(update: Update, context: CallbackContext):
     # ONLY send settings in PM
     if chat.type != chat.PRIVATE:
         if is_user_admin(chat, user.id):
-            text = "Click here to get this chat's settings, as well as yours."
+            text = "ᶜˡⁱᶜᵏ ʰᵉʳᵉ ᵗᵒ ᵍᵉᵗ ᵗʰⁱˢ ᶜʰᵃᵗ'ˢ ˢᵉᵗᵗⁱⁿᵍˢ, ᵃˢ ʷᵉˡˡ ᵃˢ ʸᵒᵘʳˢ."
             msg.reply_text(
                 text,
                 reply_markup=InlineKeyboardMarkup(
@@ -702,7 +702,7 @@ def get_settings(update: Update, context: CallbackContext):
                 ),
             )
         else:
-            text = "Click here to check your settings."
+            text = "♥ﮩ٨ـﮩﮩ٨ـﮩﮩ ¢ℓι¢к♡нєяє♡тσ♡¢нє¢к♡уσυя♡ѕєттιηgѕ ﮩﮩـ٨ﮩﮩـ٨ﮩ♥."
 
     else:
         send_settings(chat.id, user.id, True)
@@ -719,7 +719,7 @@ def migrate_chats(update: Update, context: CallbackContext):
     else:
         return
 
-    LOGGER.info("Migrating from %s, to %s", str(old_chat), str(new_chat))
+    LOGGER.info("♥ﮩ٨ـﮩﮩ٨ـﮩﮩ мιgяαтιηg♡ƒяσм ﮩﮩـ٨ﮩﮩـ٨ﮩ♥ %s, to %s", str(old_chat), str(new_chat))
     for mod in MIGRATEABLE:
         mod.__migrate__(old_chat, new_chat)
 
