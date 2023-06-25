@@ -104,11 +104,11 @@ buttons = [
         InlineKeyboardButton(text="ɦɛʟք & ƈօʍʍǟռɖֆ", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="🧑‍🤝‍🧑ռɛȶաօʀӄ 🧑‍🤝‍🧑", callback_data="https://t.me/GORILLA_NETWORK"),
-        InlineKeyboardButton(text="✨ ֆʊքքօʀȶ ✨", url=f"https://t.me/GORILLA_SUPPORT"),
+        InlineKeyboardButton(text="🧑‍🤝‍🧑ռɛȶաօʀӄ 🧑‍🤝‍🧑", callback_data="https://t.me/THE_THIRD_EYE_NETWORK"),
+        InlineKeyboardButton(text="✨ ֆʊքքօʀȶ ✨", url=f"https://t.me/TELE_WALI_FRIENDSHIP"),
     ],
     [
-        InlineKeyboardButton(text="😎 օառɛʀ 😎", url=f"https://t.me/MAMBA_RETURNS"),
+        InlineKeyboardButton(text="😎 օառɛʀ 😎", url=f"https://t.me/ITZ_ME_SECRET"),
         InlineKeyboardButton(text="☁️ ʀɛքօ ☁️", callback_data="source_"),
     ],
 ]
@@ -460,7 +460,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
 𝒜𝓃𝒹 𝓊𝓈𝒾𝓃𝑔 [𝒮𝓆𝓁𝒶𝓁𝒸𝒽𝑒𝓂𝓎](https://www.sqlalchemy.org) 𝒶𝓃𝒹 [𝓂𝒶𝓃𝑔𝑜](https://cloud.mongodb.com) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
 
 
-*🄶🄾🅁🄸🄻🄻🄰 🅂🄾🅄🅁🄲🄴 🄲🄾🄳🄴 :* [ѕσυя¢є](https://www.pornhub.com)
+*🅂🄾🅄🅁🄲🄴 🄲🄾🄳🄴 :* [ѕσυя¢є](https://www.pornhub.com)
 *🄼🅈 🅈🄾🅄🅃🅄🄱🄴 🄲🄷🄰🄽🄽🄴🄻:*[уσυтυвє](www.youtube.com/channel/UC-fmEkPQ0J-o3X73g4XvnnQ)
 
 {BOT_NAME} тнιѕ вσт ιѕ мαιηтαιηιηg ву вℓα¢кмαмвα αη∂ ℓι¢єη¢ιηg σƒ тнιѕ вσт ιѕ υη∂єя тнє [ℓι¢єη¢є](https://github.com/FantasticSukhi/GorillaRobot/blob/master/LICENSE).
