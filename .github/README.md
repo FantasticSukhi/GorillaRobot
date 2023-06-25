@@ -8,7 +8,7 @@
   <img src="https://github.com/FantasticSukhi/GorillaRobot/blob/master/GorillaRobot/resources/fglitch.gif">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ɢᴏʀɪʟʟᴀ ʀᴏʙᴏᴛ](https://t.me/FallenXRobot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ɢᴏʀɪʟʟᴀ ʀᴏʙᴏᴛ](https://t.me/SECRET_GBOT)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
