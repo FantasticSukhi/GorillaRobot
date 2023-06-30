@@ -104,11 +104,11 @@ buttons = [
         InlineKeyboardButton(text="ɦɛʟք & ƈօʍʍǟռɖֆ", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="🧑‍🤝‍🧑ռɛȶաօʀӄ 🧑‍🤝‍🧑", callback_data="https://t.me/THE_THIRD_EYE_NETWORK"),
+        InlineKeyboardButton(text="🧑‍🤝‍🧑ռɛȶաօʀӄ 🧑‍🤝‍🧑", url=f"https://t.me/THE_THIRD_EYE_NETWORK"),
         InlineKeyboardButton(text="✨ ֆʊքքօʀȶ ✨", url=f"https://t.me/TELE_WALI_FRIENDSHIP"),
     ],
     [
-        InlineKeyboardButton(text="😎 օառɛʀ 😎", url=f"https://t.me/ITZ_ME_SECRET"),
+        InlineKeyboardButton(text="😎 օառɛʀ 😎", url=f"https://t.me/MAMBA_RETURNS"),
         InlineKeyboardButton(text="☁️ ʀɛքօ ☁️", callback_data="source_"),
     ],
 ]
