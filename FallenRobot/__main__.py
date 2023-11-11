@@ -104,11 +104,11 @@ buttons = [
         InlineKeyboardButton(text="ɦɛʟք & ƈօʍʍǟռɖֆ", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="🧑‍🤝‍🧑ռɛȶաօʀӄ 🧑‍🤝‍🧑", url=f"https://t.me/THE_THIRD_EYE_NETWORK"),
-        InlineKeyboardButton(text="✨ ֆʊքքօʀȶ ✨", url=f"https://t.me/TELE_WALI_FRIENDSHIP"),
+        InlineKeyboardButton(text="🧑‍🤝‍🧑ռɛȶաօʀӄ 🧑‍🤝‍🧑", url=f"https://t.me/OfficialSelfGrowth"),
+        InlineKeyboardButton(text="✨ ֆʊքքօʀȶ ✨", url=f"https://t.me/+U2CSQSeyNUA3Yjhi"),
     ],
     [
-        InlineKeyboardButton(text="😎 օառɛʀ 😎", url=f"https://t.me/MAMBA_RETURNS"),
+        InlineKeyboardButton(text="😎 օառɛʀ 😎", url=f"https://t.me/SelfGrowthOnline"),
         InlineKeyboardButton(text="☁️ ʀɛքօ ☁️", callback_data="source_"),
     ],
 ]
@@ -382,7 +382,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭", callback_data="Gorrila_support"
+                            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭", callback_data="OfficialSelfGrowth"
                         ),
                         InlineKeyboardButton(
                             text="𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬", callback_data="help_back"
@@ -741,7 +741,7 @@ def main():
 ㅤ★ **𝖑𝖎𝖇𝖗𝖆𝖗𝖞✍ :** `{telever}`
 ㅤ★ **𝖙𝖊𝖑𝖊𝖙𝖍𝖔𝖓✍ :** `{tlhver}`
 ㅤ★ **𝖕𝖞𝖗𝖔𝖌𝖗𝖆𝖒✍ :** `{pyrover}`
-  ★ **𝕺𝖜𝖓𝖊𝖗✍ :** `@MAMBA_RETURNS`
+  ★ **𝕺𝖜𝖓𝖊𝖗✍ :** `@SelfGrowthOnline`
 ┗•❅────✧❅✦❅✧────❅•┛""",
                 parse_mode=ParseMode.MARKDOWN,
             )
