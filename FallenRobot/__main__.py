@@ -104,8 +104,8 @@ buttons = [
         InlineKeyboardButton(text="ɦɛʟք & ƈօʍʍǟռɖֆ", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="🧑‍🤝‍🧑ռɛȶաօʀӄ 🧑‍🤝‍🧑", url=f"https://t.me/OfficialSelfGrowth"),
-        InlineKeyboardButton(text="✨ ֆʊքքօʀȶ ✨", url=f"https://t.me/+U2CSQSeyNUA3Yjhi"),
+        InlineKeyboardButton(text="🧑‍🤝‍🧑ռɛȶաօʀӄ 🧑‍🤝‍🧑", url=f"https://t.me/MAMBA_X_NETWORK"),
+        InlineKeyboardButton(text="✨ ֆʊքքօʀȶ ✨", url=f"https://t.me/MAMBA_SUPPORT_GROUP"),
     ],
     [
         InlineKeyboardButton(text="😎 օառɛʀ 😎", url=f"https://t.me/SelfGrowthOnline"),
@@ -412,15 +412,15 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭", url=f"https://t.me/{SUPPORT_CHAT}"
+                            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭", url=f"https://t.me/MAMBA_SUPPORT_GROUP"
                         ),
                         InlineKeyboardButton(
-                            text="𝐔𝐩𝐝𝐚𝐭𝐞𝐬", url=f"https://t.me/{SUPPORT_CHAT}"
+                            text="𝐔𝐩𝐝𝐚𝐭𝐞𝐬", url=f"https://t.me/MAMBA_X_NETWORK"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫", url=f"tg://user?id={OWNER_ID}"
+                            text="𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫", url=f"https://t.me/SelfGrowthOnline"
                         ),
                         InlineKeyboardButton(
                             text="𝐂𝐨𝐝𝐞",
@@ -702,7 +702,7 @@ def get_settings(update: Update, context: CallbackContext):
                 ),
             )
         else:
-            text = "♥ﮩ٨ـﮩﮩ٨ـﮩﮩ ¢ℓι¢к♡нєяє♡тσ♡¢нє¢к♡уσυя♡ѕєттιηgѕ ﮩﮩـ٨ﮩﮩـ٨ﮩ♥."
+            text = "♥ﮩ٨ـﮩﮩ٨ـﮩﮩ ¢ℓι¢к нєяє тσ ¢нє¢к уσυя ѕєттιηgѕ ﮩﮩـ٨ﮩﮩـ٨ﮩ♥."
 
     else:
         send_settings(chat.id, user.id, True)
@@ -719,7 +719,7 @@ def migrate_chats(update: Update, context: CallbackContext):
     else:
         return
 
-    LOGGER.info("♥ﮩ٨ـﮩﮩ٨ـﮩﮩ мιgяαтιηg♡ƒяσм ﮩﮩـ٨ﮩﮩـ٨ﮩ♥ %s, to %s", str(old_chat), str(new_chat))
+    LOGGER.info("♥ﮩ٨ـﮩﮩ٨ـﮩﮩ мιgяαтιηg ƒяσм ﮩﮩـ٨ﮩﮩـ٨ﮩ♥ %s, to %s", str(old_chat), str(new_chat))
     for mod in MIGRATEABLE:
         mod.__migrate__(old_chat, new_chat)
 
