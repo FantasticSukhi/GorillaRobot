@@ -17,7 +17,7 @@ async def awake(_, message: Message):
     BUTTON = [
         [
             InlineKeyboardButton("нєℓρ", url=f"https://t.me/{BOT_USERNAME}?start=help"),
-            InlineKeyboardButton("ѕυρρσят", url=f"https://t.me/MAMBA_SUPPORT_GROUP"),
+            InlineKeyboardButton("ѕυρρσят", url=f"https://t.me/MAMBA_FED"),
         ]
     ]
     await message.reply_photo(
