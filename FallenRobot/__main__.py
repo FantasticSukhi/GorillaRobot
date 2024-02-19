@@ -104,11 +104,11 @@ buttons = [
         InlineKeyboardButton(text="ɦɛʟք & ƈօʍʍǟռɖֆ", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="🧑‍🤝‍🧑ռɛȶաօʀӄ 🧑‍🤝‍🧑", url=f"https://t.me/MAMBA_X_NETWORK"),
-        InlineKeyboardButton(text="✨ ֆʊքքօʀȶ ✨", url=f"https://t.me/MAMBA_SUPPORT_GROUP"),
+        InlineKeyboardButton(text="🧑‍🤝‍🧑ռɛȶաօʀӄ 🧑‍🤝‍🧑", url=f"https://t.me/MAMBA_FED_OFFICIAL"),
+        InlineKeyboardButton(text="✨ ֆʊքքօʀȶ ✨", url=f"https://t.me/MAMBA_FED"),
     ],
     [
-        InlineKeyboardButton(text="😎 օառɛʀ 😎", url=f"https://t.me/SelfGrowthOnline"),
+        InlineKeyboardButton(text="😎 օառɛʀ 😎", url=f"https://t.me/MISS_PSYYCHO"),
         InlineKeyboardButton(text="☁️ ʀɛքօ ☁️", callback_data="source_"),
     ],
 ]
@@ -412,15 +412,15 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭", url=f"https://t.me/MAMBA_SUPPORT_GROUP"
+                            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭", url=f"https://t.me/MAMBA_FED"
                         ),
                         InlineKeyboardButton(
-                            text="𝐔𝐩𝐝𝐚𝐭𝐞𝐬", url=f"https://t.me/MAMBA_X_NETWORK"
+                            text="𝐔𝐩𝐝𝐚𝐭𝐞𝐬", url=f"https://t.me/MAMBA_FED_OFFICIAL"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫", url=f"https://t.me/SelfGrowthOnline"
+                            text="𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫", url=f"https://t.me/MISS_PSYYCHO"
                         ),
                         InlineKeyboardButton(
                             text="𝐂𝐨𝐝𝐞",
