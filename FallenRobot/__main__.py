@@ -104,12 +104,13 @@ buttons = [
         InlineKeyboardButton(text="ɦɛʟք & ƈօʍʍǟռɖֆ", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="🧑‍🤝‍🧑ռɛȶաօʀӄ 🧑‍🤝‍🧑", url=f"https://t.me/MAMBA_FED_OFFICIAL"),
-        InlineKeyboardButton(text="✨ ֆʊքքօʀȶ ✨", url=f"https://t.me/MAMBA_FED"),
+        InlineKeyboardButton(text="🧑‍🤝‍🧑ռɛȶաօʀӄ 🧑‍🤝‍🧑", url=f"https://t.me/MAMBA_NETWORK_OFFICIAL"),
+        InlineKeyboardButton(text="✨ ֆʊքքօʀȶ ✨", url=f"https://t.me/MAMBA_CHAT_OFFICIAL"),
+        InlineKeyboardButton(text="✨ ƈօʊʀֆɛֆ ✨", url=f"https://t.me/MAMBA_COURSES"),
     ],
     [
-        InlineKeyboardButton(text="😎 օառɛʀ 😎", url=f"https://t.me/MISS_PSYYCHO"),
-        InlineKeyboardButton(text="☁️ ʀɛքօ ☁️", callback_data="source_"),
+        InlineKeyboardButton(text="😎 օառɛʀ 😎", url=f"https://t.me/ITZ_ME_BLACKMAMBA"),
+        InlineKeyboardButton(text="☁️ ʀɛքօ ☁️", url=f"https://blackmambaofficial.in"),
     ],
 ]
 
